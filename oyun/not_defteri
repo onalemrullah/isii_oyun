@@ -1,20 +1,3 @@
-setTimeout(function(){
-    alert('1 dk var ');
-},10000)
-
-
-
-var sec = document.getElementById("txt").value.toUpperCase();
-fetch("veri.json")
-    .then(response => response.json())
-    .then(veri => {
-        var jsnesne = veri; // 'veri' zaten JSON verisini içeriyor, ayrıca JSON.parse'a ihtiyaç yok
-        var ad = jsnesne[sec];
-
-        console.log(ad);
-    })
-    .catch(error => console.error("Veri alınamadı:", error)); // fetch işleminde oluşabilecek hataları ele almak için catch eklenmeli
-
 
 
 
