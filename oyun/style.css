@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 6fr;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header > h3{
+    font-size: 35px;
+    font-family: 'Indie Flower', cursive;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main > section{
+    height: 480px;
+    width: 380px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    height: 480px;
+    display: grid;
+    grid-template-rows: 1fr 4fr 2fr;
+}
+section > div:nth-child(1){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section > div:nth-child(1) > h3{
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+}
+section > div:nth-child(2){
+    height: 370px;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+section > div:nth-child(2) > div{
+  display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+div > p{
+    margin-bottom: 35px;
+    font-family: 'Julee', cursive;
+    font-size: 20px;
+}
+section > div:nth-child(2) > div:nth-child(2) input{
+    margin-bottom:35px;
+    width: 140px;
+    border-radius: 10px;
+    height: 25px;
+    border: 1px solid black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+section > div:nth-child(3){
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+}
+#btn{
+    height: 50px;
+    width: 65px;
+    border-radius: 10px;
+    margin-left: 70px;
+    cursor: pointer;
+    font-family: 'Julee', cursive;
+    font-size: 19px;
+    background-color:rgb(39, 39, 39);
+    color: white;
+}

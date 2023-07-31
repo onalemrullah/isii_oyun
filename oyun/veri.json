@@ -1,0 +1,27 @@
+{
+    "A":["Ampül","Anahtar","Askılık","Abdulhamit","Atlas","Ada","Abdurrahman","Adem","Ali","Ahmed","Akın","Alaaddin",
+        "Azad","Afra","Ayşe","Ayşegül","Aysel","Alev","Adana","Adıyaman","Afyonkarahisar",
+    "Ağrı","Aksaray","Ankara","Antalya","Ardahan","Artvin","Aydın","At","Ayı","Akrep","Aslan","Arı","Akbaba",
+    "Atmaca","Ateş Böceği","Anason","Aslan Pençesi","Avokado","Altın Otu","Adaçayı","Akdiken",
+     "Albüm","Akü","Askı","Ayakkabı","Atkı:","Afiş"],
+
+    "B":["Bakkal","Bıçak","bahçe","Bahçivan","Bahar","Balkız","Banu","Başak","Begüm","Betül","Burcu","Büşra","Berfin",
+        "Bahtiyar","Baran","Barış","Bayram","Berkan","Bilal","Buğra","Burak","Burhan","Balıkesir","Bartın","Batman",
+        "Bayburt","Bilecik","Bingöl","Bitlis","Bolu","Bakır",
+    "Bursa","Bal Arısı","Bıldırcın","Balina","Bukalemun","Bülbül","Balık","Baykuş","Basur Otu","Biberiye,","Burçak",
+    "Bamya","Bambu","Badem","Boru Çiçeği","Begonvil"," Bardak ","Bavul","Bisiklet","Bilye","Battaniye","Buzdolabı","Bulaşık Makinesi","Bez"],
+
+    "C":["Cabbar","Cabbar","Cahit","Can","Canalp","Canay","Canberk","Canan","Cansel","Cansu","Cemre","Ceyda","Cihan","Ceylan","Cennet papağanı",
+        "Cam kedibalığı","Cırcır böceği","Ceylan","Civciv","Cüce kertenkele","Civanperçemi","Ceviz Ağac","Camgüzeli","Cennet Kuşu Çiçeği","Ciğer Otu","Cinnema",
+    "Ceket","Cetvel","Cep Telefonu","Cımbız"],
+
+    "D":["Deniz","Demir","Dilaver","Demircan","Davut","Devrim","Doruk","Deren","Derin","Dicle","Dilek","Duru","Duygu","Cansu","Denizli","Diyarbakır","Düzce",
+    "Domuz","Dana","Deve Kuşu","Denizanası","Dil Balığı","Dalmaçya Köpeği","Darı","Dönbaba","Dul Avrat Otu",
+     "Deve Dikeni","Diş Budak","Deve Tabanı","Dalak Otu","Deniz Rezenesi","Daktilo","Dürbün","Davul","Dikiş Makinesi",
+    "Dergi","Döşek","Duvar Saati"],
+    
+    "E":["Emrullah","Ebubekir","Ebubekir","Emrah","Erkan","Ertuğrul","Edi","Efe","Efe Can","Ege","Egemen",
+    "Elif","Ece","Ekin","Ekim","Erzurum","Edirne","Eskişehir","Erzincan","Elazığ","Eşek","Engerek Yılanı","Eşek Arısı",
+    "Eşkina Balığı","Ebabil","Ev Faresi","Elektrikli Yılan Balığı","Ev Kırlangıcı","Enginar Yaprağı","Ekinezya","Eğir Kökü","Ebegümeci",
+    "Eğrelti Otu","Ejder Meyvesi","Elma","Erik","El havlusu","Eşarp","Etek","Ekmek sepeti","Elbise","Eldiven"]
+}
